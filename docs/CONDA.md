@@ -2,7 +2,7 @@ Some important commands:
 
 ```
 conda create --platform linux-64 --name ml-env python=3.11
-``
+```
 
 Using spec-file.txt 
 
